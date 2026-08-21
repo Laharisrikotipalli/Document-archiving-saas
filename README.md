@@ -1,4 +1,4 @@
-# Partnr Archive — Multi-Tenant Document Archiving SaaS
+# Multi-Tenant Document Archiving SaaS
 
 A secure, multi-tenant document archiving service: a containerized backend API,
 PostgreSQL for metadata, MinIO (S3-compatible) for object storage, and a
